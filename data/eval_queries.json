@@ -1,0 +1,52 @@
+[
+  {
+    "description": "classic post-modern literature",
+    "query": {
+      "title": "The Sheltering Sky",
+      "authors": "Bowles"
+    }
+  },
+  {
+    "description": "classic literature",
+    "query": {
+      "title": "The Brothers Karamazov"
+    }
+  },
+  {
+    "description": "a classic but technical math book",
+    "query": {
+      "title": "counterexamples in analysis"
+    }
+  },
+  {
+    "description": "children's book",
+    "query": {
+      "title": "goodnight moon"
+    }
+  },
+  {
+    "description": "a 2015 best-seller",
+    "query": {
+      "title": "girl on the train"
+    }
+  },
+  {
+    "description": "a mystery/thriller series",
+    "query": {
+      "title": "a letter of mary"
+    }
+  },
+  {
+    "description": "obscure biography of the semi-obscure novelist J.L. Carr",
+    "query": {
+      "title": "the last englishman",
+      "authors": "byron rogers"
+    }
+  },
+  {
+    "description": "classic philosophy text",
+    "query": {
+      "title": "the world as will and representation"
+    }
+  }
+]
